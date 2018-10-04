@@ -1,0 +1,20 @@
+.header {
+	width: 100%;
+}
+.header-top {
+	background: transparent url(http://localhost/WebMoki/image/bkg_top_header.png);
+	height: 34px;
+}
+.container {
+	width: 90%;
+}
+.left-area {
+	float: left;
+}
+.phone-support {
+	padding: 5px 0;
+	color: white;
+}
+.phone-support i {
+	margin: 0 10px;
+}
