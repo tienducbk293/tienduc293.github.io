@@ -2,7 +2,7 @@
 	width: 100%;
 }
 .header-top {
-	background: transparent url(http://localhost/WebMoki/image/bkg_top_header.png);
+	background: transparent url(../image/bkg_top_header.png);
 	height: 34px;
 }
 .container {
